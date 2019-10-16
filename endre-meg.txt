@@ -1,7 +1,9 @@
 Dette er en tekstfil
 
-Denne linja kan du endre
-Eg e suuuuulten o sliiiiiiten 
-Danielle vil du hjelpe meg med rapporten 
+Denne linjen er endret av jon
 
 Hilsen Jon
+
+//accept current change - beholder mine endringer
+//accept incoming change - beholder nadre sine endringer
+//accept both changes - beholde begge sine
